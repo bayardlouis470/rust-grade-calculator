@@ -1,6 +1,6 @@
 [package]
 name = "gradecalculators"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Louis Bayard <bayardlouis470@outlook.com>"]
 edition = "2018"
 description = "grade calculators"
