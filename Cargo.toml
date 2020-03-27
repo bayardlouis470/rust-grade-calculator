@@ -3,6 +3,8 @@ name = "gradecalculators"
 version = "0.1.0"
 authors = ["Louis Bayard <bayardlouis470@outlook.com>"]
 edition = "2018"
+description = "grade calculators"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
