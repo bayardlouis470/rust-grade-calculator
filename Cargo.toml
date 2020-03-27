@@ -1,6 +1,6 @@
 [package]
 name = "gradecalculators"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Louis Bayard <bayardlouis470@outlook.com>"]
 edition = "2018"
 description = "grade calculators"
@@ -8,5 +8,6 @@ license = "MIT"
 homepage = "https://10converters.com"
 repository = "https://github.com/bayardlouis470/rust-grade-calculator"
 keywords = ["student", "grade"]
+readme = "README.md"
 
 [dependencies]
